@@ -1,0 +1,8 @@
+C:\Users\Nadia\RiderProjects\Nadia218005170\Nadia218005170\obj\Debug\netcoreapp3.0\Nadia218005170.csprojAssemblyReference.cache
+C:\Users\Nadia\RiderProjects\Nadia218005170\Nadia218005170\obj\Debug\netcoreapp3.0\staticwebassets\Nadia218005170.StaticWebAssets.Manifest.cache
+C:\Users\Nadia\RiderProjects\Nadia218005170\Nadia218005170\obj\Debug\netcoreapp3.0\staticwebassets\Nadia218005170.StaticWebAssets.xml
+C:\Users\Nadia\RiderProjects\Nadia218005170\Nadia218005170\obj\Debug\netcoreapp3.0\Nadia218005170.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Nadia\RiderProjects\Nadia218005170\Nadia218005170\obj\Debug\netcoreapp3.0\Nadia218005170.RazorAssemblyInfo.cache
+C:\Users\Nadia\RiderProjects\Nadia218005170\Nadia218005170\obj\Debug\netcoreapp3.0\Nadia218005170.RazorAssemblyInfo.cs
+C:\Users\Nadia\RiderProjects\Nadia218005170\Nadia218005170\obj\Debug\netcoreapp3.0\Nadia218005170.AssemblyInfoInputs.cache
+C:\Users\Nadia\RiderProjects\Nadia218005170\Nadia218005170\obj\Debug\netcoreapp3.0\Nadia218005170.AssemblyInfo.cs
